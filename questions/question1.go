@@ -1,3 +1,8 @@
+/*
+*
+To display 10 numbers stored in an array and their index position in two adjacent
+columns with a0ppropriate headings.
+*/
 package main
 
 import "fmt"
