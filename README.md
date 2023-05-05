@@ -1,3 +1,4 @@
+![](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg)
 #  Go Practice Questions
 
 Welcome to the Go Programming Practice Questions repository. This repository contains programs solved in Go, covering various fundamental programming concepts. Each question has its own file named as `question` followed by its number.
