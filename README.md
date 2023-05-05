@@ -15,13 +15,18 @@ To run the code in this repository, you need to have Go programming language ins
 To use this repository, you need to have Go installed on your system. You can then clone the repository and run the programs locally.
 
 ## Getting Started
-To get started, simply clone the repository to your local machine using the following command:`git clone https://github.com/your-username/go-practice-questions.git
-`
+To get started, simply clone the repository to your local machine using the following command:
+
+```shell
+git clone https://github.com/your-username/go-practice-questions.git
+```
 ## How to use?
 Each Go file in the repository corresponds to a practice question. To view the solution to a particular question, simply open the corresponding Go file.
 
-To run a Go file, navigate to the **questions** directory in your terminal and use the following command: `go run file_name.go
-`
+To run a Go file, navigate to the **questions** directory in your terminal and use the following command: 
+```shell
+go run file_name.go
+```
 
 ## Contributions
 
