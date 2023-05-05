@@ -3,6 +3,7 @@ Store 20 nos in an array. Display all zeroes first (if any) followed by all the 
 
 Example:
 
+INPUT
 23
 44
 5
@@ -23,6 +24,8 @@ Example:
 0
 19
 -88
+
+OUTPUT
 0 0 0 0 23 44 5 -3 43 67 8 29 30 21 40 14 51 99 19 -88
 */
 
