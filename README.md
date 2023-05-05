@@ -19,7 +19,7 @@ To use this repository, you need to have Go installed on your system. You can th
 To get started, simply clone the repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/your-username/go-practice-questions.git
+git clone https://github.com/sambit81/go-practice-questions.git
 ```
 ## How to use?
 Each Go file in the repository corresponds to a practice question. To view the solution to a particular question, simply open the corresponding Go file.
