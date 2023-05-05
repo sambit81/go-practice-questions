@@ -34,18 +34,23 @@ package main
 import "fmt"
 
 func main() {
+	// Initializing an array of size 20 with 0
 	var arr = [20]int{}
+
+	// Taking 20 inputs from user
 	fmt.Println("Enter 20 numbers")
 	for i := 0; i < 20; i++ {
 		fmt.Scan(&arr[i])
 	}
 
+	// Printing all the zeros present in the array
 	for i := 0; i < 20; i++ {
 		if arr[i] == 0 {
 			fmt.Print(arr[i], " ")
 		}
 	}
 
+	// Printing all the non-zero values present in the array
 	for i := 0; i < 20; i++ {
 		if arr[i] != 0 {
 			fmt.Print(arr[i], " ")
