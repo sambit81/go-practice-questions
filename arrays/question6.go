@@ -1,5 +1,6 @@
 /*
-Write a program that stores 50 integers in an array and then prompts the user to enter two values: a minimum value and a maximum value. The program should then count and display the frequency of the numbers that fall within the specified range (inclusive of the minimum and maximum values).
+Write a program that stores 50 integers in an array and then prompts the user to enter two values: a minimum value and a maximum value.
+The program should then count and display the frequency of the numbers that fall within the specified range (inclusive of the minimum and maximum values).
 
 Example:
 
