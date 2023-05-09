@@ -1,6 +1,7 @@
 /*
-Store 50 numbers in an array and find the frequency of numbers that fall within a specific range, which will be provided as input,
-and print the results.
+Write a program that stores 50 integers in an array and then prompts the user to enter
+two values: a minimum value and a maximum value. The program should then count and display the frequency
+of the numbers that fall within the specified range (inclusive of the minimum and maximum values).
 
 Example:
 
