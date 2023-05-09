@@ -1,6 +1,9 @@
 /*
-Store name and mark of 5 students and then display the names as per their performance in descending order.
-Sorting algorithm to be used: Bubble sort.
+Write a Go program that stores the names and marks of 5 students and displays the names in
+descending order of their marks using the bubble sort algorithm.
+
+Your program should prompt the user to enter the names of the 5 students and their respective marks,
+and then display the sorted list of names with their corresponding marks.
 
 Example:
 
