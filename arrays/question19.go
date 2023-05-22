@@ -77,7 +77,7 @@ func main() {
 
 			// Check if number of factors is 2 for prime
 			if cnt == 2 {
-				rn++
+				nt_rn++
 			}
 		}
 	}
