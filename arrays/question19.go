@@ -12,7 +12,7 @@ Primes in the range - 2 (5,7)
 
 # OUTPUT
 
-Primes not in range - 4 (6,8,9,10~)
+Primes not in range - 4 (6,8,9,10)
 */
 package main
 
