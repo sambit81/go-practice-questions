@@ -1,5 +1,5 @@
 /*
-Store first 15 Fibonacci numbers in an array and then display two digit Fibonacci numbers in descending order.
+Store the first 15 Fibonacci numbers in an array and then display two-digit Fibonacci numbers in descending order.
 
 Example:
 
