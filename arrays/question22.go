@@ -30,7 +30,6 @@ If the input array contains numbers like 546
 
 Maximum number: 91654, Index position: 10
 Minimum number: 211, Index position: 6
-Total numbers found: 6
 */
 package main
 
