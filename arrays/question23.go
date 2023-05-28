@@ -67,14 +67,14 @@ func main() {
 	// Declare second array of size 15
 	var array2 [size]int
 
-	fmt.Println("Enter numbers for first array")
+	fmt.Println("Enter numbers for first array:")
 
 	// Input 15 numbers
 	for i := 0; i < size; i++ {
 		fmt.Scan(&array1[i])
 	}
 
-	fmt.Println("Enter numbers for second array")
+	fmt.Println("Enter numbers for second array:")
 
 	// Input 15 numbers
 	for i := 0; i < size; i++ {
