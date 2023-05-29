@@ -31,6 +31,7 @@ Marks:
 90
 84
 
+# OUTPUT
 Top 5 Students:
 Frank - 95
 Bob - 92
@@ -85,7 +86,7 @@ func main() {
 		}
 	}
 
-	// After sorting marks array will be in descending order and also the names array will be sorted accordingly
+	// After sorting, marks array will be in descending order and also the names array will be sorted accordingly
 	// So, print the first five names
 	fmt.Println("Top 5 Students:")
 	for i := 0; i < 5; i++ {
