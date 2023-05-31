@@ -1,5 +1,5 @@
 /*
-Store 20 numbers in an array. Take a number as input then check then check how many times the number is present in the array.
+Store 20 numbers in an array. Take a number as input then check how many times the number is present in the array.
 
 Example:
 
