@@ -1,5 +1,5 @@
 /*
-Take a five digit number as input, and store all its digit in an array. Display the digits array in descending order. Use any sorting algorithm
+Take a five digit number as input, and store all its digit in an array. Use any sorting algorithm to sort the digits array in descending order. At last, display the sorted digits array.
 
 Example:
 
