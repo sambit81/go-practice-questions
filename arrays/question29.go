@@ -5,11 +5,24 @@ Example:
 
 # INPUT
 
-45678
+Enter 10 numbers:
+54
+54
+789
+124
+547
+878
+654
+941
+214
+547
 
 # OUTPUT
 
-[8 7 6 5 4]
+Pairs:
+54      45
+54      45
+878     878
 */
 
 package main
