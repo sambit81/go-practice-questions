@@ -32,12 +32,12 @@ import (
 	"math"
 )
 
-const size int = 10
+const size int = 10 // Declare a constant which will be size of the arrays
 
 func main() {
 	// Declare arrays
-	var num [10]int
-	var rev_num [10]int
+	var num [size]int
+	var rev_num [size]int
 
 	fmt.Println("Enter 10 numbers:")
 	for i := 0; i < size; i++ {
