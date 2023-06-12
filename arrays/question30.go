@@ -54,7 +54,7 @@ import (
 	"fmt"
 )
 
-const size int = 25
+const size int = 25 // Declare a constant which will be size of the arrays
 
 func main() {
 	// Declare array
