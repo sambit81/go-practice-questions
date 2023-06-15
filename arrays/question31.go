@@ -3,6 +3,7 @@ Create an array to store 30 numbers. Subsequently, identify the positions of the
 
 Example:
 
+# INPUT
 5
 6
 14
@@ -13,6 +14,8 @@ Example:
 68
 97
 1
+
+# OUTPUT
 Sum of numbers which lies between minimum number in array: 1 and maximum number in array: 98 is 389
 */
 
