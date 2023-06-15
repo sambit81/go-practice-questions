@@ -1,5 +1,6 @@
 /*
 Create an array to store 30 numbers. Subsequently, identify the positions of the maximum and minimum numbers within the array. Finally, calculate the sum of the numbers located between the maximum and minimum numbers, inclusive of both the maximum and minimum values.
+
 Example:
 
 5
