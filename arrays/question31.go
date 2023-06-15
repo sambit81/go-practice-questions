@@ -16,7 +16,7 @@ Example:
 1
 
 # OUTPUT
-Sum of numbers which lies between minimum number in array: 1 and maximum number in array: 98 is 389
+The sum of numbers that lies between the minimum number in the array: 1 and the maximum number in the array: 98 is 389
 */
 
 package main
